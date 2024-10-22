@@ -1,4 +1,4 @@
-public class ProtossUnit extends Unit {
+public abstract class ProtossUnit extends Unit {
 
   protected int maxShield;
 

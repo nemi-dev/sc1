@@ -1,4 +1,4 @@
-public class ZergUnit extends Unit {
+public abstract class ZergUnit extends Unit {
   public ZergUnit() {
     super();
     this.race = SC1.Race.Zerg;

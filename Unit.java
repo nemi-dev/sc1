@@ -1,4 +1,4 @@
-public class Unit {
+public abstract class Unit {
   protected String name;
   protected SC1.Race race; // T / Z / P 
   protected SC1.Size size; // Small / Medium / Large
